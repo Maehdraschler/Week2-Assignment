@@ -30,7 +30,7 @@ body {
     padding: 20px;
     margin: 10px;
     background-color: darkgray;
-    border: 3px solid black;
+    border: 1px solid black;
     width: calc(33.33% - 20px);
     float: left;
 }
@@ -46,8 +46,8 @@ body {
     right: 0;
     padding-inline: 50px;
     padding-block: 3px;
-    border-bottom: 2px solid #000;
-    border-left: 2px solid #000;
+    border-bottom: 1px solid #000;
+    border-left: 1px solid #000;
     font-size: 125%;
     font-weight: bold;
 }
